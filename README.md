@@ -2,6 +2,8 @@
 This repository contains small Java games I created to practice programming while having fun.
 Each game is in its own folder for clarity and ease of use.
 
+---
+
 ## Games Included
 
 1. **QuizGame**
@@ -13,6 +15,8 @@ Each game is in its own folder for clarity and ease of use.
 3. **RockPaperScissorsGame**
    - Play Rock-Paper-Scissors against the computer with fun ASCII art.
 
+---
+
 ## Skills Demonstrated
 These mini games helped me improve my skills in:
 - loops, conditionals, arrays
@@ -20,6 +24,8 @@ These mini games helped me improve my skills in:
 - working with random numbers
 - basic game logic
 - organizing projects in separate folders
+
+---
 
 ## How to Run
 1. Navigate to the game folder:
